@@ -8,3 +8,4 @@ Here is my socials
 - 🌱 *[linktree](https://linktr.ee/ryuzakila)*
 - 👯 *[Linkedin](www.linkedin.com/in/maruti1411)*
 
+![GitHub Snake](https://raw.githubusercontent.com/RyuzakiLa/RyuzakiLa/output/snake.svg)
