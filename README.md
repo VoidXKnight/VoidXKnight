@@ -4,7 +4,7 @@ I’m in a long-term relationship with cybersecurity 🔐, constantly flirting w
 
 Here is my socials
 
-- 🌱 *[linktree](https://linktr.ee/voidxknight)*
+- 🌱 *[linktree](https://linktr.ee/V8night)*
 - 👯 *[Linkedin](https://www.linkedin.com/in/maruti15)*
 
 ![GitHub Snake](https://raw.githubusercontent.com/RyuzakiLa/RyuzakiLa/output/snake.svg)
